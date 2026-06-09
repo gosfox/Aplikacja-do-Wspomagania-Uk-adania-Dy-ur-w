@@ -1,0 +1,57 @@
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\Szablon Dyżury.exe.config
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\Szablon Dyżury.exe
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\Szablon Dyżury.pdb
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\pl\Szablon Dyżury.resources.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\NPOI.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\NPOI.OOXML.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\NPOI.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\NPOI.OOXML.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon Dyżury.csproj.AssemblyReference.cache
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon_Dyżury.Form1.resources
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon_Dyżury.Properties.Resources.resources
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon_Dyżury.Form1.pl.resources
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon Dyżury.csproj.GenerateResource.cache
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon Dyżury.csproj.CoreCompileInputs.cache
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\pl\Szablon Dyżury.resources.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon .6078761D.Up2Date
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon Dyżury.exe
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon Dyżury.pdb
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14\obj\Debug\Szablon Dyżury.exe.config
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\Szablon Dyżury.exe.config
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\Szablon Dyżury.exe
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\Szablon Dyżury.pdb
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\pl\Szablon Dyżury.resources.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\NPOI.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\NPOI.OOXML.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\NPOI.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\NPOI.OOXML.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon Dyżury.csproj.AssemblyReference.cache
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon Dyżury.exe.config
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon_Dyżury.Form1.resources
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon_Dyżury.Properties.Resources.resources
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon_Dyżury.Form1.pl.resources
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon Dyżury.csproj.GenerateResource.cache
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon Dyżury.csproj.CoreCompileInputs.cache
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\pl\Szablon Dyżury.resources.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon .6078761D.Up2Date
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon Dyżury.exe
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon Dyżury.pdb
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\itextsharp.dll
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\bin\Debug\itextsharp.xml
+C:\Users\Foczkownica\Desktop\Szablon Dyżury 14 work ver\obj\Debug\Szablon_Dyżury.FormEdytorPlanow.resources
